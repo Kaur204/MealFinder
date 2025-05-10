@@ -29,7 +29,7 @@ const Home = () => {
 
   return (
     <div className="flex flex-col">
-      <div className="w-[640px] mb-4 h-24 shadow-sm text-center justify-center m-auto">
+      <div className="w-[660px] h-26 shadow-sm text-center justify-center m-auto">
         <h1 className="mb-4 font-bold font-sans text-2xl">
           Recipe Categories for you, what you wanna make?
         </h1>
